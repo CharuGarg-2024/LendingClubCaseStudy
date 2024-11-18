@@ -38,4 +38,4 @@ The analysis of charged-off cases reveals several key risk factors associated wi
 This project is developed by:
 
 @CharuGarg-2024 (https://github.com/CharuGarg-2024) & Chaitanya
-"We welcome your contributions, feedback, and suggestions for improving this project."
+- "We welcome your contributions, feedback, and suggestions for improving this project."
