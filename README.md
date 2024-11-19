@@ -38,5 +38,5 @@ Dataset: The dataset used in this project includes information on loan amounts, 
 ## Collaborators
 This project is developed by:
 
-@CharuGarg-2024 (https://github.com/CharuGarg-2024) & Chaitanya
+[@CharuGarg-2024](https://github.com/CharuGarg-2024) & [@cmurakonda](https://github.com/cmurakonda/)
 - "We welcome your contributions, feedback, and suggestions for improving this project."
